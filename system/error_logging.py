@@ -1,6 +1,6 @@
 import time
 
-err_log_path = "D:/TereBin/TtTB/data/err_log.txt"
+err_log_path = "../data/err_log.txt"
 
 def err_logging(err):
     with open(err_log_path, 'a') as f:
