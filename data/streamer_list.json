@@ -1,12 +1,12 @@
 {
-	"0": { # key of streamer
-		"1_twitch_id": "", # https://www.twitch.tv/[~]
-		"2_twitter_id": "", # https://twitter.com/[~]
-		"3_tweet": "", # sentence you put write
-		"4_signal": "False", # data to check whether tweet has been sent or not
-		"5_access_token": "", # access_token for tweeter authentication
-		"6_access_secret": "", # access_secret for tweeter authentication
+	"0": { #key of streamer
+		"1_twitch_id": "", #https://www.twitch.tv/[~]
+		"2_twitter_id": "", #https://twitter.com/[~]
+		"3_tweet": "", #sentence you put write
+		"4_signal": "False", #data to check whether tweet has been sent or not
+		"5_access_token": "", #access_token for tweeter authentication
+		"6_access_secret": "", #access_secret for tweeter authentication
 		"7_req_data": "True, True, True, False", #
-		"8_img": "data/img/[1_twitch_id].png" # image file that can be send with tweet
+		"8_img": "data/img/[1_twitch_id].png" #image file that can be send with tweet
 	}
 }
