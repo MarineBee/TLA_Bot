@@ -1,1 +1,3 @@
 oauth:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+트위치에 트윗 전송 알림을 주기 위해서 필요한 auth 정보
