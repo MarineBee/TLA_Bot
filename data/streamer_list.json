@@ -2,7 +2,7 @@
 	"0": { #key of streamer
 		"1_twitch_id": "", #https://www.twitch.tv/[~]
 		"2_twitter_id": "", #https://twitter.com/[~]
-		"3_tweet": "", #sentence you put write
+		"3_tweet": "", #sentence you write on tweet
 		"4_signal": "False", #data to check whether tweet has been sent or not
 		"5_access_token": "", #access_token for tweeter authentication
 		"6_access_secret": "", #access_secret for tweeter authentication
