@@ -1,7 +1,12 @@
 # TLA_Bot
----
-Twitch_to_Twitter_Bot
-트위치 방송 시작을 트위터에 자동으로 알려주는 봇입니다.
+
+Twitch Live Alert Bot
+
+트위치 방송의 시작을 트위터, 디스코드 등 여러 매체를 이용해 자동으로 알려주는 봇입니다.
+
+테스트 버전 : https://github.com/TereBin/Twitch_to_Multi_Platform
+
+Bot to alert Twitch stream using Twitter, Discord etc
 
 ---
 
